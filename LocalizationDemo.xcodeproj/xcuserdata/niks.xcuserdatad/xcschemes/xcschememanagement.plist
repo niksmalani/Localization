@@ -9,6 +9,29 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>LocalizationDemoFrench.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2D9EE9CA2153BE2C00D7DC09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D9EE9DE2153BE2D00D7DC09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2D9EE9E92153BE2D00D7DC09</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
